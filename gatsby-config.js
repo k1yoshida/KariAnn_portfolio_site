@@ -4,7 +4,7 @@ module.exports = {
     author: "Aman Mittal",
     description: "A Gatsby.js Starter based on Ceevee by Styleshout"
   },
-  pathPrefix: "/",
+  pathPrefix: "/KariAnn_portfolio_site",
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`librebaskerville`, `open sans`]
+        fonts: [`librebaskerville`, `open sans`, `Abril Fatface cursive`]
       }
     },
     {
