@@ -4,7 +4,7 @@ module.exports = {
     author: "KariAnn Yoshida",
     description: "Portfolio Site for Kari Ann Yoshida"
   },
-  pathPrefix: "/KariAnn_portfolio_site",
+  pathPrefix: "/",
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
