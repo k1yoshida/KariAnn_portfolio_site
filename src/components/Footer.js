@@ -11,12 +11,15 @@ const Footer = () => (
       <div className="twelve columns">
         <ul className="social-links">
           <li>
-            <a href="https://github.com/k1yoshida">
+            <a href="https://github.com/k1yoshida" target="_blank">
               <FaGithub />
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/kariannyoshida/">
+            <a
+              href="https://www.linkedin.com/in/kariannyoshida/"
+              target="_blank"
+            >
               <FaLinkedinSquare />
             </a>
           </li>
